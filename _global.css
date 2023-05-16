@@ -1,0 +1,6 @@
+@charset "utf-8";
+.img-fluid {
+    min-width: 100%;
+    min-height: auto;
+    display: block;
+}
