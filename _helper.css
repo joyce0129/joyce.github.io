@@ -1,0 +1,14 @@
+@charset "utf-8";
+.dark-bg {
+    background-color: #5B8EC3;
+    color: #FFFFFF;
+}
+.blue-bg{
+    background-color: #499AB7;	
+}
+.pull-left{
+    float: left;	
+}
+.pull-right{
+    float: right;	
+}
